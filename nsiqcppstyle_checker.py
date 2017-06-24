@@ -253,7 +253,8 @@ reserved = {
     "_based":"IGNORE",
     "__stdcall":"IGNORE",
     "__try":"IGNORE",
-    "dllexport":"IGNORE"
+    "dllexport":"IGNORE",
+    "final":"IGNORE"
 
 }
 
